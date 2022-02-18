@@ -9,18 +9,25 @@ body{background: goldenrod;}
 
 /*Home*/
 
+.navbar{background: black;}
+
+/*navbar-toggler-icon{color: goldenrod;}*/
+
 .navbar-brand{font-size: 20px;
-font-weight: 1000px ;}
+font-weight: 1000px ;
+color: goldenrod;}
 
 .navbar-nav{font-size: 20px;
 font-weight: 500px;}
+
+.nav-link{color: goldenrod;}
 
 #Jumbo{background: black;}
 
 #Jumbo .jumbotron{background: black;
 color: goldenrod;}
 
-#Home2 #Carou{background: black;}
+#Home2{background: black;}
 
 #X{font-size: 30px;
 	text-align: right;}
@@ -33,13 +40,20 @@ color: goldenrod;}
 #Y h1{font-size: 125px;
 text-align: left;}
 
+.carousel-inner h5{font-size: 50px;
+position: relative;}
+
 
 /*About Me*/
 #AM-2{background: black;
 color: goldenrod;
 /*padding: 50px;*/}
 
-#AMP img{border-radius: 75px;}
+#About{font-size: 100px;}
+
+#AMP img{border-radius: 200px;}
+
+#AMP{text-align: center;}
 
 #AM-2 #WS {background: goldenrod;
 color: black;}
@@ -47,8 +61,22 @@ color: black;}
 #AM-2 #GS {background: goldenrod;
 color: black;}
 
-.PRO #RW{background: black;
+button	.am-btn{color: goldenrod;}
+
+/*Projects*/
+
+#Projects{font-size: 100px;
+color: black;}
+
+.PRO .row{background: black;
 color: goldenrod;}
+
+.PRO #proj-btn{background: black;}
+
+
+
+#Con h1{font-size: 100px;
+color: black;}
 
 #Contact{background: black;}
 
