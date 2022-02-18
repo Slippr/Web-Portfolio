@@ -11,6 +11,10 @@ body{background: goldenrod;}
 
 .navbar{background: black;}
 
+.navbar-toggler-icon{stroke: rgba(1, 1, 1, 0.5);
+background: goldenrod;
+border-radius: 10px;}
+
 /*navbar-toggler-icon{color: goldenrod;}*/
 
 .navbar-brand{font-size: 20px;
