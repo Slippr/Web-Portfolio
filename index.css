@@ -1,0 +1,74 @@
+*{margin: 0 !important;
+padding: 0 !important;
+box-sizing: border-box;
+font-family: 'Kaisei Decol', serif;
+font-family: 'KoHo', sans-serif;}
+
+body{background: goldenrod;}
+
+
+/*Home*/
+
+.navbar-brand{font-size: 20px;
+font-weight: 1000px ;}
+
+.navbar-nav{font-size: 20px;
+font-weight: 500px;}
+
+#Jumbo{background: black;}
+
+#Jumbo .jumbotron{background: black;
+color: goldenrod;}
+
+#Home2 #Carou{background: black;}
+
+#X{font-size: 30px;
+	text-align: right;}
+
+#X h1{font-size: 125px;}
+
+#Y{font-size: 28px;
+	text-align: right;}
+
+#Y h1{font-size: 125px;
+text-align: left;}
+
+
+/*About Me*/
+#AM-2{background: black;
+color: goldenrod;
+/*padding: 50px;*/}
+
+#AMP img{border-radius: 75px;}
+
+#AM-2 #WS {background: goldenrod;
+color: black;}
+
+#AM-2 #GS {background: goldenrod;
+color: black;}
+
+.PRO #RW{background: black;
+color: goldenrod;}
+
+#Contact{background: black;}
+
+#Contact form{background: black;}
+
+
+iframe{border-color: goldenrod;}
+
+#Contact input{background: lightgoldenrodyellow;
+border-color: black;
+color: black;}
+
+#Contact textarea{background: lightgoldenrodyellow;
+border-color: black;
+color: black;}
+
+.footer{font-size: 12px;
+background: black;}
+
+.footer input{font-size: 12px;}
+
+.footer button{font-size: 12px;}
+
